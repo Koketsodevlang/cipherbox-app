@@ -6,6 +6,8 @@ Tech Stack
 
 Frontend: React + TypeScript
 
+Node.js
+
 Styling: Tailwind CSS
 
 Animations / UI: Framer Motion
